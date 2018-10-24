@@ -36,7 +36,7 @@
 }
 
 .left-section {
-  width: 500px;
+  width: 350px;
 }
 
 .flex {
@@ -44,7 +44,7 @@
 }
 
 .right-section {
-  width: 300px;
+  width: 500px;
   height: 200px;
   overflow-y: auto;
   border: 1px solid #000000;
@@ -59,4 +59,16 @@
 .hover-item:hover {
   background: #cccccc;
   cursor: pointer;
+}
+
+.height-20 {
+  height: 10px;
+}
+
+.top-10 {
+  margin-top: 5px;
+}
+
+.width-120 {
+  width: 120px;
 }
